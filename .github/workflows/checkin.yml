@@ -6,7 +6,7 @@ name: 自动签到
 # 如需启用自动签到，将 ENABLED 改为 true
 # 如需禁用自动签到，将 ENABLED 改为 false
 env:
-  ENABLED: true  # 默认关闭，需要手动改为 true
+  ENABLED: false  # 默认关闭，需要手动改为 true
 
 on:
   schedule:
